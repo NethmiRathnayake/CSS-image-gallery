@@ -1,0 +1,24 @@
+div.gallery {
+  margin: 20px;
+  width: 280px;
+  height: 200px;
+  float: left;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+nav {
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+  color: #696661;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+body{
+  background-color: #f1ffb3;
+}
+
